@@ -5,7 +5,7 @@ This repository contains a collection of feature engineering techniques for enha
 ## Techniques Covered
 - Basic Feature Engineering
 - Categorical Encoding
-- Feature Selection
+- Feature Selection 
 
 ## Installation
 1. Clone the repository:
