@@ -8,7 +8,7 @@ This repository contains a collection of feature engineering techniques for enha
 - Feature Selection 
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: 
     ```bash
     git clone https://github.com/yourusername/feature-engineering-techniques.git
     ```
