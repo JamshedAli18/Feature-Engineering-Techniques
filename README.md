@@ -4,7 +4,7 @@ This repository contains a collection of feature engineering techniques for enha
 
 ## Techniques Covered
 - Basic Feature Engineering
-- Categorical Encoding
+- Categorical Encoding 
 - Feature Selection 
 
 ## Installation
