@@ -5,7 +5,34 @@ This repository contains a collection of feature engineering techniques for enha
 ## Techniques Covered
 - Basic Feature Engineering
 - Categorical Encoding 
-- Feature Selection 
+- Feature Selection
+
+## Datasets Overview
+
+### 1. **California Housing Dataset**
+- **Type**: Regression
+- **Features**: 8 numerical features (e.g., income, house age, rooms)
+- **Target**: Median house value (continuous)
+- **Size**: 20,640 samples
+
+---
+
+### 2. **Car Evaluation Dataset**
+- **Type**: Classification
+- **Features**: 6 categorical features (e.g., price, maintenance, safety)
+- **Target**: Car acceptability (4 classes: `unacc`, `acc`, `good`, `vgood`)
+- **Size**: 1,728 samples
+
+---
+
+### 3. **Wine Dataset**
+- **Type**: Classification
+- **Features**: 13 numerical features (e.g., alcohol, malic acid, color intensity)
+- **Target**: Wine class (3 classes)
+- **Size**: 178 samples
+
+---
+
  
 ## Installation
 1. Clone the repository: 
